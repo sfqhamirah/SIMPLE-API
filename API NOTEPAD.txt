@@ -7,6 +7,6 @@ POST
 https://localhost:7066/api/values/save-result
 
 {
-  "NRIC": "020404100664",
+  "NRIC": "123456789012",
   "ResultValue": "Y"
 }
