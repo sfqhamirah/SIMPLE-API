@@ -1,4 +1,5 @@
 API
+- must use your localhost
 
 GET
 https://localhost:7066/api/values?NO=ST100
