@@ -1,0 +1,10 @@
+Id,this field defines the Serial Number of the employee
+Name,this field defines the name of the employee
+Address,this field defines the Address of the employee
+Salary,this field defines the Salary of the employee
+DOJ,this field defines the Date of Joining of the employee
+DOB,this field defines the Date of Birth of the employee
+Age,this field defines the Age of the employee
+Sex,this field defines the Gender of the employee
+Dependents,this field defines the Number of Dependents Employee Having
+HRA,this field defines the House Rent Allowance Employee getting on basic salary

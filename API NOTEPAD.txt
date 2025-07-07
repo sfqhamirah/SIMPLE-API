@@ -1,0 +1,12 @@
+API
+
+GET
+https://localhost:7066/api/values?NO=ST100
+
+POST
+https://localhost:7066/api/values/save-result
+
+{
+  "NRIC": "020404100664",
+  "ResultValue": "Y"
+}
